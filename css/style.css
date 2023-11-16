@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
 }
 
+.hide {
+  display: none;
+}
+
 .layout_padding {
   padding: 75px 0;
 }
