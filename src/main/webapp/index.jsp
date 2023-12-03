@@ -33,7 +33,7 @@
     <header class="header_section">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
-                <a class="navbar-brand mr-5" href="index.html">
+                <a class="navbar-brand mr-5" href="index.jsp">
             <span>
               3T Glasses
             </span>
@@ -48,24 +48,24 @@
                                 <a class="nav-link" href="index.jsp">Trang chủ <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="about.html"> Giới thiệu </a>
+                                <a class="nav-link" href="about.jsp"> Giới thiệu </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="shop.html"> Sản phẩm </a>
+                                <a class="nav-link" href="shop.jsp"> Sản phẩm </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="glass.html"> Chất lượng </a>
+                                <a class="nav-link" href="glass.jsp"> Chất lượng </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Liên hệ</a>
+                                <a class="nav-link" href="contact.jsp">Liên hệ</a>
                             </li>
                         </ul>
                     </div>
                     <div class="quote_btn-container ">
-                        <a href="/form/form login/login.jsp">
+                        <a href="login.jsp">
                             Đăng nhập
                         </a>
-                        <a href="cart.html">
+                        <a href="cart.jsp">
                             <img src="images/cart.png" alt="">
                         </a>
                         <form class="form-inline">

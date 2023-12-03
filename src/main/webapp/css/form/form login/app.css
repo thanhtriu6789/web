@@ -1,5 +1,5 @@
 body{
-    background: url('../img/gl.webp');
+    background: url('img/gl.webp');
     background-size: cover;
     background-position-y: -80px;
     font-size: 16px;
@@ -61,4 +61,11 @@ body{
 }
 .form-submit:hover{
     border: 1px solid #54a0ff;
+}
+
+.link {
+    margin-top: 20px;
+}
+.signin {
+    margin-right: 20px;
 }
